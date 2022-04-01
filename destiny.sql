@@ -51,7 +51,7 @@ SELECT * FROM customer;
 
 CREATE TABLE shift (
     shift_id INT PRIMARY KEY NOT NULL IDENTITY (1,1),
-    shift_time VARCHAR(30)
+    shift_time VARCHAR(30) NOT NULL
 );
 
 INSERT INTO shift
@@ -66,6 +66,6 @@ INSERT INTO shift
 SELECT * FROM shift;
 
 SELECT 
-    a1.employee_shift, a2.shift_id, a2.shift_time 
+    a1.employee_shift, a1.employee_fname, a1.employee_lname, a2.shift_id, a2.shift_time
     FROM employee a1
-    INNER JOIN shift a2 ON a2.shift_id = employee.employee_shift;
+    INNER JOIN shift a2 ON a2.shift_id = a1.employee_shift;
