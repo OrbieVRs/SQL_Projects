@@ -51,6 +51,7 @@ SELECT * FROM customer;
 
 CREATE TABLE shift (
     shift_id INT PRIMARY KEY NOT NULL IDENTITY (1,1),
+    shift_key INT FOREIGN KEY REFERENCES employee(employee_shift),
     shift_time VARCHAR(30) NOT NULL
 );
 
