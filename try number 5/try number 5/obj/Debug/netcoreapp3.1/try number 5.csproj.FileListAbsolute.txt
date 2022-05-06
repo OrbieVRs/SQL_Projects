@@ -1,0 +1,36 @@
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.exe
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.deps.json
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.runtimeconfig.json
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.runtimeconfig.dev.json
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.dll
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.pdb
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.Views.dll
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\bin\Debug\netcoreapp3.1\try number 5.Views.pdb
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.csproj.AssemblyReference.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.AssemblyInfoInputs.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.AssemblyInfo.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.csproj.CoreCompileInputs.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.MvcApplicationPartsAssemblyInfo.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.RazorAssemblyInfo.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.RazorAssemblyInfo.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\staticwebassets\try number 5.StaticWebAssets.Manifest.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.TagHelpers.input.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.TagHelpers.output.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.RazorCoreGenerate.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.RazorTargetAssemblyInfo.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.RazorTargetAssemblyInfo.cs
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.Views.pdb
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.dll
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.pdb
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.genruntimeconfig.cache
+E:\BootCamp\Projects\SQL_Repositories\SQL_Projects\try number 5\try number 5\obj\Debug\netcoreapp3.1\try number 5.csproj.CopyComplete

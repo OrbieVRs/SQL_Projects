@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vozac\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vozac\\.nuget\\packages",
+      "E:\\Programs\\Visual Studio 2022\\Shared\\NuGetPackages"
+    ]
+  }
+}
